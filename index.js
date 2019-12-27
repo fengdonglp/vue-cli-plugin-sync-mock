@@ -5,7 +5,7 @@ const setup = require('./lib/mock')
 
 const PLUGIN_OPTION_NAME = 'syncMock'
 const ROOT_PATH = path.resolve(__dirname).split('/node_modules')[0]
-const DEFAULT_CACHE_PATH = path.resolve(ROOT_PATH, './node_modules/.cache/vue-cli-plugin-sync-mock-data/')
+const DEFAULT_CACHE_PATH = path.resolve(ROOT_PATH, './node_modules/.cache/vue-cli-plugin-sync-mock-cache/')
 
 module.exports = (api, projectConfig) => {
   /**
