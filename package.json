@@ -1,0 +1,25 @@
+{
+  "name": "vue-cli-plugin-sync-mock",
+  "version": "0.1.0",
+  "description": "Localized interface response data to achieve local debugging without remote server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengdonglp/vue-cli-plugin-sync-mock.git"
+  },
+  "keywords": [
+    "vue-cli-3",
+    "vue-cli-plugin",
+    "mock",
+    "local-mock"
+  ],
+  "author": "fengd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fengdonglp/vue-cli-plugin-sync-mock/issues"
+  },
+  "homepage": "https://github.com/fengdonglp/vue-cli-plugin-sync-mock#readme"
+}
